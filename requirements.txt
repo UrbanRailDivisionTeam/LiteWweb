@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+pandas 
+numpy
+colorlog
+toml
+
+sqlglot[rs]
+peewee
+
+pyodbc
+mysqlclient
+cx_oracle
+pymongo
+clickhouse-connect
+clickhouse-sqlalchemy
